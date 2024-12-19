@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+temp/**
+HRVatar_env/**
+resources/models/**
+hrvatar/wav2lip/checkpoints/**
+hrvatar/wav2lip/temp/**
+static/InterviewVideos/**
+test.py
